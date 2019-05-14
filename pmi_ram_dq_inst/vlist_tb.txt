@@ -1,0 +1,5 @@
+pmi_ram_dq_inst.v
+$(RADIANT_TOP)/ip/pmi/pmi_ram_dq_be.v
+reset_generator.v
+clock_gen.v
+tb.v

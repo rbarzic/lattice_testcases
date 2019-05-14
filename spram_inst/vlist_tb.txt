@@ -1,0 +1,10 @@
+spram_inst.v
+$(RADIANT_TOP)/cae_library/simulation/verilog/iCE40UP/SP256K.v
+$(RADIANT_TOP)/cae_library/simulation/verilog/iCE40UP/SPRAM256KA.v
+$(RADIANT_TOP)/cae_library/simulation/verilog/iCE40UP/VFB_B.v
+$(RADIANT_TOP)/cae_library/simulation/verilog/iCE40UP/VLO.v
+$(RADIANT_TOP)/cae_library/simulation/verilog/iCE40UP/sadslspk4s1p16384x16m16b4w1c0p1d0t0.v
+$(RADIANT_TOP)/cae_library/simulation/verilog/iCE40UP/generic_behav_sadslspk4s1p16384x16m16b4w1c0p1d0t0.v
+reset_generator.v
+clock_gen.v
+tb.v
